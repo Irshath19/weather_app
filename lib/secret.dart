@@ -1,0 +1,1 @@
+const openapikey = 'b74205e91667f551b13824842597e0f3';
